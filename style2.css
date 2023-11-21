@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Notable&family=Prompt:wght@500;600&display=swap');
+
+.aboutus__container {
+    row-gap: 3.5rem;
+}
+
+.aboutus__data {
+    text-align: center;
+}
+
+.aboutus__title {
+    margin-bottom: 1rem;
+}
+
+.aboutus__description {
+    margin-bottom: 2rem;
+}
+
+.aboutus__images {
+    display: flex;
+    justify-content: center;
+}
+
+.aboutus__img-1,
+.aboutus__img-2 {
+    width: 170px;
+}
+
